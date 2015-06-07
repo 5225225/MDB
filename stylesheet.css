@@ -1,0 +1,40 @@
+body {
+    background: #181818;
+    color: #ffffff;
+}
+
+p.alert {
+    font-size: 200%;
+    color: #ff2222;
+    background: #551515;
+}
+
+p.title {
+    font-weight: bold;
+    font-size: 140%;
+}
+
+a.source {
+    font-size: 30%;
+    color: #454545;
+}
+
+blockquote {
+    background: #303030;
+    color: #aaaaaa;
+    border-left: 4px solid #21A52C;
+    padding-left: 8px;
+}
+
+blockquote blockquote {
+    margin-left: 10px;
+    border-left: 4px solid #3661B9;
+}
+
+code {
+    color: #7CAFC2;
+}
+
+input {
+    font-family: "monospace";
+}
